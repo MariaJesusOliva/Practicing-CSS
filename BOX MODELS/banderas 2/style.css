@@ -1,0 +1,21 @@
+.lab {
+    background: yellow;
+    display: block;
+    padding-bottom: 100px;
+    width: 33%;
+    margin: 20px;
+}
+.es {
+    background: grey;
+    display: block;
+    padding-bottom: 100px;
+    width: 33%;
+    margin: 20px;
+}
+.trns {
+    background: yellow;
+    display: block;
+    padding-bottom: 100px;
+    width: 33%;
+    margin: 20px;
+}
