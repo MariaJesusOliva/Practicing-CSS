@@ -7,7 +7,7 @@
 ### Bandera 3
 ####  Poniendo en práctica conocimientos de display: inline-block, padding y width.
 ### Bandera 4
-####  Poniendo en práctica conocimientos de display: inline-block.
+####  Poniendo en práctica conocimientos de display: inline.
 ## Positioning & Floats
 ### La cancha
 ####  Poniendo en práctica conocimientos de positioning.
